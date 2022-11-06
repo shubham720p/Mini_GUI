@@ -11,6 +11,7 @@ def getvals():
 
 
 root.geometry("644x344")
+root.title("shubham meals")
 Label(root, text="Welcome to shubham meals", font="comicsansms 13 bold", pady=15).grid(row=0, column=3)
 
 name = Label(root, text="Name")
